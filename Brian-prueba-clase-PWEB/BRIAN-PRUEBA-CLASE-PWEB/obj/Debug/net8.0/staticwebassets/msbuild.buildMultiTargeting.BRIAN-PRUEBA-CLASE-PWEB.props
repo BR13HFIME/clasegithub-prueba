@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/BRIAN-PRUEBA-CLASE-PWEB.props" />
+</Project>
